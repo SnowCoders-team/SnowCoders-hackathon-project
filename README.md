@@ -127,10 +127,17 @@ The following KPIs are calculated:
 * Throughput trend
 * Employee productivity
 * Order processing funnel
-* Anomaly breakdown
 * Detailed anomaly table
 
 ---
+
+## 📸 Dashboard Screenshots
+
+### 🔹 Executive Overview
+![Executive Dashboard](Dashboard%20Screenshots/Dashboard1.png)
+
+### 🔹 Operations & Analysis
+![Operations Dashboard](Dashboard%20Screenshots/Dashboard2.png)
 
 ## 🔐 Data Governance
 
@@ -162,14 +169,28 @@ Implemented:
 ```text
 Warehouse_Project/
 │
-├── sql/
-│   └── Ecommerce-Warehouse.sql
+├── SQL/
+│ └── Ecommerce-Warehouse.sql
 │
 ├── Dashboards/
-│   └── WarehouseDashboard.pbix
+│ ├── WarehouseDashboard1.pbix
+│ └── WarehouseDashboard2.pbix
 │
-├── datasets/
-│   └── orders.csv
+├── Screenshots/
+│ ├── Dashboard1.png
+│ └── Dashboard2.png
+│
+├── Warehouse & Fulfillment Center Operations/
+│ ├── customers_master.csv
+│ ├── customers_inc.csv
+│ ├── employees_master.csv
+│ ├── employees_inc.csv
+│ ├── inventory_master.csv
+│ ├── inventory_inc.csv
+│ ├── events_master.csv
+│ ├── events_inc.csv
+│ ├── orders_master.csv
+│ └── orders_inc.csv
 │
 └── README.md
 ```

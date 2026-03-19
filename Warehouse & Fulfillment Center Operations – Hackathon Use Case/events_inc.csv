@@ -1,0 +1,4 @@
+event_id,order_id,employee_id,event_type,event_time,remarks
+4,4,8,pack,2024-01-04,Remark_4
+10,8,5,qc,2024-01-10,Remark_10
+1,1,1,pack,2024-01-01,Remark_1

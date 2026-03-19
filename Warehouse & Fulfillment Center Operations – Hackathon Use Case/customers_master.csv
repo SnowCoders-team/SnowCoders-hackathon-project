@@ -1,0 +1,11 @@
+customer_id,customer_name,email,phone,city,state,segment,registration_date
+1,Customer_1,cust1@mail.com,9000000001,Vijayawada,AP,Retail,2024-01-01
+2,Customer_2,cust2@mail.com,9000000002,Hyderabad,AP,Wholesale,2024-01-02
+3,Customer_3,cust3@mail.com,9000000003,Hyderabad,AP,Retail,2024-01-03
+4,Customer_4,cust4@mail.com,9000000004,Hyderabad,AP,Wholesale,2024-01-04
+5,Customer_5,cust5@mail.com,9000000005,Hyderabad,AP,Retail,2024-01-05
+6,Customer_6,cust6@mail.com,9000000006,Guntur,AP,Retail,2024-01-06
+7,Customer_7,cust7@mail.com,9000000007,Hyderabad,AP,Retail,2024-01-07
+8,Customer_8,cust8@mail.com,9000000008,Guntur,AP,Retail,2024-01-08
+9,Customer_9,cust9@mail.com,9000000009,Guntur,AP,Retail,2024-01-09
+10,Customer_10,cust10@mail.com,9000000010,Hyderabad,AP,Retail,2024-01-10

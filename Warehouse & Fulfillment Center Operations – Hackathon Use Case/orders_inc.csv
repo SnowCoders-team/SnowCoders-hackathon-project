@@ -1,0 +1,4 @@
+order_id,customer_id,order_date,promised_ship_date,order_value,item_count,order_channel,priority_flag,status
+8,6,2024-01-08,2024-01-08,3882,11,App,1,Open
+6,8,2024-01-06,2024-01-06,4382,10,Online,0,Shipped
+3,6,2024-01-03,2024-01-03,4860,3,Offline,1,Delivered

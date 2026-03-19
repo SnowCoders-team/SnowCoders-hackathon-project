@@ -1,0 +1,4 @@
+employee_id,name,role,shift_start,shift_end,hub_id,join_date,status
+4,Employee_4,packer,2024-01-04,2024-01-04,3,2024-01-04,Inactive
+7,Employee_7,qc,2024-01-07,2024-01-07,3,2024-01-07,Active
+3,Employee_3,qc,2024-01-03,2024-01-03,2,2024-01-03,Inactive

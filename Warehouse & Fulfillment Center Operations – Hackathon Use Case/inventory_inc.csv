@@ -1,0 +1,4 @@
+inventory_id,sku_id,sku_name,category,on_hand_qty,reserved_qty,reorder_level,last_restock_date,warehouse_id
+1,9,SKU_1,Grocery,435,47,16,2024-01-01,1
+3,7,SKU_3,Clothing,244,66,12,2024-01-03,1
+6,6,SKU_6,Grocery,75,34,94,2024-01-06,1

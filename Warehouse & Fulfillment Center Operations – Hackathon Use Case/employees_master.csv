@@ -1,0 +1,11 @@
+employee_id,name,role,shift_start,shift_end,hub_id,join_date,status
+1,Employee_1,loader,2024-01-01,2024-01-01,4,2024-01-01,Inactive
+2,Employee_2,packer,2024-01-02,2024-01-02,3,2024-01-02,Inactive
+3,Employee_3,qc,2024-01-03,2024-01-03,2,2024-01-03,Inactive
+4,Employee_4,packer,2024-01-04,2024-01-04,3,2024-01-04,Inactive
+5,Employee_5,loader,2024-01-05,2024-01-05,2,2024-01-05,Active
+6,Employee_6,packer,2024-01-06,2024-01-06,3,2024-01-06,Inactive
+7,Employee_7,qc,2024-01-07,2024-01-07,3,2024-01-07,Active
+8,Employee_8,packer,2024-01-08,2024-01-08,2,2024-01-08,Inactive
+9,Employee_9,qc,2024-01-09,2024-01-09,1,2024-01-09,Active
+10,Employee_10,qc,2024-01-10,2024-01-10,3,2024-01-10,Inactive

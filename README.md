@@ -134,10 +134,10 @@ The following KPIs are calculated:
 ## 📸 Dashboard Screenshots
 
 ### 🔹 Executive Overview
-![Executive Dashboard](Dashboard%20Screenshots/Dashboard1.png)
+![Executive Dashboard](Screenshots/Dashboard1.png)
 
 ### 🔹 Operations & Analysis
-![Operations Dashboard](Dashboard%20Screenshots/Dashboard2.png)
+![Operations Dashboard](Screenshots/Dashboard2.png)
 
 ## 🔐 Data Governance
 
